@@ -1,0 +1,51 @@
+.col-md-7 p{
+    width: 400px;
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    border: none;
+    height: 35px;
+}
+.see-all{
+    color: orangered;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card{
+    padding: 3%;
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+}
+.space{
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+.cat3 img{
+    width: 100%;
+}
+.cat img{
+    box-shadow: 5px 4px 18px 4px #d5d2d2;
+    padding: 10%;
+    border-radius: 10px 0px;
+}
+.spacing1{
+    margin-bottom: 20%;
+    margin-left: -17%;
+
+}
+.spacing2{
+    margin-left: -17%;
+}
+.spacing3{
+    margin-left: 7%;
+}
+.border1{
+        border-bottom: 5px solid orange;
+        padding-bottom: 5px;
+        border-radius: 3px;
+}
